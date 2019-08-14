@@ -1,0 +1,16 @@
+import { Link } from 'react-router-dom';
+export declare const JobcardContainer: import("styled-components").StyledComponent<"div", any, {}, never>;
+export declare const JobCardWrapper: import("styled-components").StyledComponent<"div", any, {}, never>;
+export declare const JobcardHeaderWrapper: import("styled-components").StyledComponent<"div", any, {}, never>;
+export declare const JobcardHeaderImage: import("styled-components").StyledComponent<"div", any, {}, never>;
+export declare const JobcardHeaderContent: import("styled-components").StyledComponent<"div", any, {}, never>;
+export declare const JobcardBodyWrapper: import("styled-components").StyledComponent<"div", any, {}, never>;
+export declare const JobcardDetailWrapper: import("styled-components").StyledComponent<"div", any, {}, never>;
+export declare const JobcardDescriptionWrapper: import("styled-components").StyledComponent<"div", any, {}, never>;
+export declare const Title: import("styled-components").StyledComponent<"h3", any, {}, never>;
+export declare const SubtitleTitle: import("styled-components").StyledComponent<"p", any, {}, never>;
+export declare const JobCardFooterWrapper: import("styled-components").StyledComponent<"footer", any, {}, never>;
+export declare const Image: import("styled-components").StyledComponent<"img", any, {}, never>;
+export declare const LabelTag: import("styled-components").StyledComponent<"span", any, {}, never>;
+export declare const CustomLink: import("styled-components").StyledComponent<typeof Link, any, {}, never>;
+export declare const IconHolder: import("styled-components").StyledComponent<"div", any, {}, never>;
